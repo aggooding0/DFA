@@ -1,0 +1,12 @@
+ababa is accepted
+
+abbaba is accepted
+
+abbab is accepted
+
+aaaab is rejected
+
+abbbb is rejected
+
+babaa is rejected
+
